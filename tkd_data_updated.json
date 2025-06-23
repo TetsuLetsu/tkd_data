@@ -1,0 +1,20 @@
+{
+    "no  belt": { 
+        "Questions": ["What type of martial art do you practice?", "What is the name of your school?", "What does Tae Kwon Do mean?"],
+        "Terms": ["Sa bum Neem", "Dobok", "Dojang", "Master Instructor", "Uniform", "Workout Area", "Cha Khi"], 
+        "Forms": ["Form 1", "Form 2", "Form 3"], 
+        "Kicking": ["Front Kick", "Side Thrusting Kick"],
+        "Sparring": ["1", "2"], 
+        "Fist": ["1","2","3"]
+    } ,
+    
+    "white": {
+        "Questions": ["Why do we yell in Tae Kwon Do?", "When do we bow?", "Why do you Tae Kwon Do?"],
+        "Terms": ["Sun ba Neem", "Jonbee", "Makgi", "Blocking", "Ready Stance", "High-ranking belt", "Kicho Hyung"],
+        "Forms": ["Form 1", "Form 2", "Form 3"], 
+        "Kicking": ["Front Kick", "Side Kick", "Axe Kick"],
+        "Sparring": ["1", "2", "3"], 
+        "Fist": ["1","2","3","4"],
+        "[Real] Sparring": ["1","2","3","4","5"]
+    } 
+}

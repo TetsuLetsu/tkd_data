@@ -43,7 +43,7 @@
     "notedesc_lbl": [
       "Q: What type of martial art do you practice?\\nA: Tae Kwon Do, Sir!\\n\\nQ: What is the name of your school?\\nA: The One Mountain Kim Tae Kwon Do, Sir!\\n\\nQ: What does Tae Kwon Do mean?\\nA: Tae means feet, Kwon means hands, and Do means mind, Sir!\\n\\nCount: Hana, Duel, Set, Net, Dasot, Yausot, Ilgop, Yuhdol, Ahop, Yeoul",
       "Master Instructor - Sa bum neem\\nUniform - Dobok\\nWorkout Area - Dojang",
-      "Form 1: Turn left, walking stance, left down block; walk forward right mid punch; turn 180 and down right block; walk forward left mid punch (kiyup)\\nForm 2: Turn left, walking stance, left high block; walk forward right mid punch; turn 180 and high right block; walk forward left mid punch (kiyup)\\nForm 3:",
+      "Form 1: Turn left, walking stance, left down block; walk forward right mid punch; turn 180 and down right block; walk forward left mid punch\\nForm 2: Turn left, walking stance, left high block; walk forward right mid punch; turn 180 and high right block; walk forward left mid punch \\nForm 3:",
       "SELF EXPLAINITORY :)",
       "(i believe its down block mid punch and high block high punch, but idk)\\n1:\\n2:",
       "1: Ready stance -> High block,\\n2: Ready stance -> Middle punch\\n3: Ready stance -> Down block",
@@ -96,11 +96,11 @@
     "notedesc_lbl": [
       "Q: Why do we yell in Tae Kwon Do?\\nA: To develop strength with concentration, power, and confidence sir!\\n\\nQ: When do we bow?\\nA: We bow when entering and leaving the dojang, at the beginning and end of class, when greeting the Master or higher belts any time, anywhere sir!\\n\\nQ: Why do you Tae Kwon Do?\\nA: To develop a strong mind, a strong mind, and self defense techniques sir!",
       "High-ranking belt - Sun ba neem\\nReady Stance - Joonbee\\nBlocking - Makgi\\nKicho Hyung - Form Name",
-      "Forms Name: Kicho Hyung\\nForm 1(2x): Turn left, walking stance, left down block; walk forward right mid punch; turn 180 and down right block; walk forward left mid punch (kiyup)\\nForm 2(2x): Turn left, walking stance, left high block; walk forward right mid punch; turn 180 and high right block; walk forward left mid punch (kiyup)\\nForm 3: Turn left, walking stance, left down block; walk forward double mid punch with blocking hand; turn 180 and down right block; walk forward right double mid punch (kiyup)",
+      "Forms Name: Kicho Hyung\\nForm 1(2x): Turn left, walking stance, left down block; walk forward right mid punch; turn 180 and down right block; walk forward left mid punch \\nForm 2(2x): Turn left, walking stance, left high block; walk forward right mid punch; turn 180 and high right block; walk forward left mid punch \\nForm 3: Turn left, walking stance, left down block; walk forward double mid punch with blocking hand; turn 180 and down right block; walk forward right double mid punch ",
       "SELF EXPLAINITORY :)",
       "1: Ready stance -> Counter block right foot forward -> right double mid punch, high right punch,\\n2: Ready stance -> Counter block right foot forward -> right neck chop, grab arm and swing elbow horizontally while pulling arm\\n3: Ready stance -> Counter block right foot forward -> right palm strike(starts at hip) while pulling arm and swing elbow vertically",
       "1: Front stance -> Middle block (stepping forward),\\n2: Front stance -> High Block (stepping forward),\\n3: Front stance -> Down block (stepping forward),\\n4: Front stance -> mid punch then double middle punch",
-      "1: front leg step forward and drag back foot\\n2: back leg step backwards and drag front foot\\n3: swing back foot forward in an arc\\n4: swing front foot backwards in an arc"
+      "1: front leg step forward and drag back foot\\n2: back leg step backwards and drag front foot\\n3: swing back foot forward in an arc\\n4: swing front foot backwards in an arc\\n5: swing back foot to front"
     ]
   }
 }

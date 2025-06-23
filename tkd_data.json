@@ -1,20 +1,20 @@
-{
-    "no  belt": { 
+data = {
+    "no  belt": { # look at the paper if you need
         "Questions": ["What type of martial art do you practice?", "What is the name of your school?", "What does Tae Kwon Do mean?"],
-        "Terms": ["Sa bum Neem", "Dobok", "Dojang", "Master Instructor", "Uniform", "Workout Area", "Cha Khi"], 
+        "Terms": ["Sa bum Neem", "Dobok", "Dojang", "Master Instructor", "Uniform", "Workout Area", "Cha Khi"], # Cha Khi is no belt combination kicks
         "Forms": ["Form 1", "Form 2", "Form 3"], 
         "Kicking": ["Front Kick", "Side Thrusting Kick"],
-        "Sparring": ["1", "2"], 
-        "Fist": ["1","2","3"]
+        "Sparring": ["1", "2"], # low block mid punch,  high block high punch
+        "Fist": ["1","2","3"], # 1: high block, 2: middle punch, 3: down block, 
     } ,
     
-    "white": {
+    "white": { # look at the paper if you need
         "Questions": ["Why do we yell in Tae Kwon Do?", "When do we bow?", "Why do you Tae Kwon Do?"],
         "Terms": ["Sun ba Neem", "Jonbee", "Makgi", "Blocking", "Ready Stance", "High-ranking belt", "Kicho Hyung"],
-        "Forms": ["Form 1", "Form 2", "Form 3"], 
+        "Forms": ["Form 1", "Form 2", "Form 3"], # all together is kicho hyung
         "Kicking": ["Front Kick", "Side Kick", "Axe Kick"],
-        "Sparring": ["1", "2", "3"], 
-        "Fist": ["1","2","3","4"],
+        "Sparring": ["1", "2", "3"], #Mid block double mid one high punch, mid block neck chop grab arm and swing elbow horizontal, mid block high palm strike grab arm and swing elbow vertically
+        "Fist": ["1","2","3","4"], # 1: middle block, 2: low block, 3: high block, 4: double punch
         "[Real] Sparring": ["1","2","3","4","5"]
     } 
 }
